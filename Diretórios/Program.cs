@@ -1,11 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using static System.Console;
 
-CriarDiretoriosGlobo();
+var path = Path.Combine(Environment.CurrentDirectory, "globo");
+CriarDiretoriosGlobo(path);
+InfoDiretorios(path);
 
-static void CriarDiretoriosGlobo()
+static void CriarDiretoriosGlobo(string path)
 {
-    var path = Path.Combine(Environment.CurrentDirectory, "globo");
 
     if (!Directory.Exists(path))
     {
@@ -39,6 +40,22 @@ static void CriarDiretoriosGlobo()
     else
     {
         WriteLine("Os diretórios já existem!");
+    }
+}
+
+static void InfoDiretorios(string path)
+{
+    if(Directory.Exists(path)){
+        var diretorios = Directory.GetDirectories(path, "*", SearchOption.AllDirectories);
+        foreach (var dir in diretorios)
+        {   
+            var dirInfo = new DirectoryInfo(dir);
+            WriteLine("Nome:" + dirInfo.Name);
+            WriteLine("Raiz:" + dirInfo.Root);
+            if (dirInfo.Parent != null) {
+                WriteLine("Pai:" + dirInfo.Parent.Name);
+            }
+        }
     }
 }
 
