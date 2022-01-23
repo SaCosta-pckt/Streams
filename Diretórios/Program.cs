@@ -43,6 +43,7 @@ static void CriarDiretoriosGlobo(string path)
     }
 }
 
+//Obtendo informações dos diretórios
 static void InfoDiretorios(string path)
 {
     if(Directory.Exists(path)){
