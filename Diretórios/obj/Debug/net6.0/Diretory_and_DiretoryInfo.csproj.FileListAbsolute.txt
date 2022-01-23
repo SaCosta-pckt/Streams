@@ -1,0 +1,15 @@
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.csproj.AssemblyReference.cache
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.AssemblyInfoInputs.cache
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.AssemblyInfo.cs
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.csproj.CoreCompileInputs.cache
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\Diretory_and_DiretoryInfo.exe
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\Diretory_and_DiretoryInfo.deps.json
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\Diretory_and_DiretoryInfo.runtimeconfig.json
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\Diretory_and_DiretoryInfo.dll
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\ref\Diretory_and_DiretoryInfo.dll
+D:\workspace\Streams\Diretórios\bin\Debug\net6.0\Diretory_and_DiretoryInfo.pdb
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.dll
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\ref\Diretory_and_DiretoryInfo.dll
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.pdb
+D:\workspace\Streams\Diretórios\obj\Debug\net6.0\Diretory_and_DiretoryInfo.genruntimeconfig.cache

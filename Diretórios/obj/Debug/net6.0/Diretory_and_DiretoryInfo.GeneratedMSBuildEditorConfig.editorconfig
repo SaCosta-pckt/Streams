@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = File_and_FileInfo
-build_property.ProjectDir = d:\workspace\Streams\Arquivos\
+build_property.RootNamespace = Diretory_and_DiretoryInfo
+build_property.ProjectDir = D:\workspace\Streams\Diretórios\
