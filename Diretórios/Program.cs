@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using static System.Console;
+﻿using static System.Console;
 
 var path = Path.Combine(Environment.CurrentDirectory, "globo");
 CriarDiretoriosGlobo(path);
